@@ -14,7 +14,7 @@ body {
     height: fit-content;
 }
 
-.chinna {
+.chinna_logo {
     position: relative;
     z-index: 2;
     opacity: 0.99;
@@ -22,9 +22,6 @@ body {
     width: 200px;
     margin-top: 40%;
     filter: drop-shadow(0 0 0.75rem #959595);
-}
-
-.chinna_logo{
     filter: invert(1);
 }
 
